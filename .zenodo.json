@@ -1,0 +1,28 @@
+{
+  "upload_type": "dataset",
+  "title": "The Price of a Gigabyte: Residential Proxy Prices 2019–2026",
+  "version": "2026-10-02",
+  "description": "<p>Dated residential proxy prices per GB for 12 providers, read from their own pricing pages (live on 2 October 2026) and from Wayback Machine captures back to 2019, plus a monthly GB Price Index (July 2024 = 100).</p><p>Published by ProxyPicker (https://proxypicker.com), an independent data lab; no provider can pay to change a number. Full write-up, charts and methodology: https://proxypicker.com/price-of-a-gigabyte/</p>",
+  "creators": [
+    {
+      "name": "ProxyPicker"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "residential proxies",
+    "proxy pricing",
+    "price per GB",
+    "price index",
+    "Wayback Machine",
+    "web data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://proxypicker.com/price-of-a-gigabyte/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

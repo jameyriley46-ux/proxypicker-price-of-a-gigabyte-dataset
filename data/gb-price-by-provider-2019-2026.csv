@@ -1,0 +1,25 @@
+metric,provider,2019-07,2020-01,2020-07,2021-01,2021-07,2022-01,2022-07,2023-01,2023-07,2024-01,2024-07,2025-01,2025-07,2026-01,2026-07,2026-10 (live)
+entry_usd_per_gb,Bright Data,,,,not captured,,25.0,15.0,15.0,15.0,,8.4,8.4,8.4,8.0,8.0,8.0
+entry_usd_per_gb,DataImpulse,not captured,not captured,not captured,not captured,not captured,not captured,not captured,,,,1.0,1.0,1.0,1.0,1.0,1.0
+entry_usd_per_gb,Decodo (Smartproxy),15.0,15.0,15.0,15.0,15.0,,,12.5,8.5,8.5,7.0,7.0,3.5,3.5,3.75,4.0
+entry_usd_per_gb,IPRoyal,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,7.35
+entry_usd_per_gb,NodeMaven,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,,,,,5.0,5.0
+entry_usd_per_gb,Oxylabs,12.0,12.0,15.0,15.0,15.0,15.0,15.0,12.0,15.0,10.0,8.0,8.0,8.0,8.0,6.0,6.0
+entry_usd_per_gb,Proxy-Cheap,not captured,not captured,5.0,not captured,not captured,5.0,not captured,4.99,not captured,,,not captured,,,not captured,
+entry_usd_per_gb,Proxy-Seller,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,,,,,,,not captured
+entry_usd_per_gb,ProxyEmpire,not captured,not captured,not captured,not captured,not captured,not captured,not captured,15.0,15.0,15.0,9.0,9.0,7.0,,3.5,3.5
+entry_usd_per_gb,Rayobyte,not captured,not captured,not captured,not captured,not captured,not captured,15.0,7.5,15.0,15.0,7.5,3.75,3.5,3.5,,3.5
+entry_usd_per_gb,SOAX,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,6.6,6.6,3.6,3.6,3.6,5.0
+entry_usd_per_gb,Webshare,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,7.0,7.0,3.5,3.5,3.5,3.5
+rate_100gb_usd_per_gb,Bright Data,,,10.0,not captured,10.0,10.0,11.25,11.25,11.25,,7.14,7.14,7.14,7.0,7.0,7.0
+rate_100gb_usd_per_gb,DataImpulse,not captured,not captured,not captured,not captured,not captured,not captured,not captured,,,,1.0,1.0,1.0,1.0,1.0,1.0
+rate_100gb_usd_per_gb,Decodo (Smartproxy),6.0,6.0,7.0,7.0,7.0,,,7.0,5.2,5.2,4.5,4.5,,4.5,,2.75
+rate_100gb_usd_per_gb,IPRoyal,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,5.25
+rate_100gb_usd_per_gb,NodeMaven,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,,,,,3.0,3.0
+rate_100gb_usd_per_gb,Oxylabs,9.0,9.0,9.0,9.0,9.0,9.0,9.0,9.0,8.0,7.0,6.98,6.98,6.98,6.98,5.0,5.0
+rate_100gb_usd_per_gb,Proxy-Cheap,not captured,not captured,4.0,not captured,not captured,4.0,not captured,4.0,not captured,,,not captured,,,not captured,
+rate_100gb_usd_per_gb,Proxy-Seller,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,,,,,,,not captured
+rate_100gb_usd_per_gb,ProxyEmpire,not captured,not captured,not captured,not captured,not captured,not captured,not captured,6.0,6.0,6.0,5.45,5.45,5.0,,2.5,2.5
+rate_100gb_usd_per_gb,Rayobyte,not captured,not captured,not captured,not captured,not captured,not captured,6.0,3.0,6.0,6.0,4.5,2.25,2.0,2.0,,2.0
+rate_100gb_usd_per_gb,SOAX,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,5.6,5.6,3.4,3.4,3.4,3.0
+rate_100gb_usd_per_gb,Webshare,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,not captured,5.5,5.5,2.25,2.25,2.25,2.25
